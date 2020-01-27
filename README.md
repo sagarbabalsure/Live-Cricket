@@ -1,11 +1,12 @@
 # Live-Cricket
 I have extracted live score of all cricket matches by web scraping of crickbuzz.
 
-###Prerequisite
-python 3.6 and pip should be installed on your system.
+### Prerequisite
+**python 3.6** and **pip3** should be installed on your system.
 
-###How to use:
-*create new folder
+### How to use:
+
+* create new folder
 ```
 mkdir <folder_name>
 cd <folder_name>
