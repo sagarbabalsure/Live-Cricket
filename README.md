@@ -2,7 +2,7 @@
 I have extracted live score of all cricket matches by web scraping of crickbuzz.
 
 ## Prerequisites
-*python 3.6* and *pip3* should be installed on your system.
+**python 3.6** and **pip3** must be installed on your system.
 
 ## How to use:
 
