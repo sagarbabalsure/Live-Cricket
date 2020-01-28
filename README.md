@@ -2,7 +2,7 @@
 I have extracted live score of all cricket matches by web scraping of crickbuzz.
 
 ## Prerequisites
-**python 3.6** and **pip3** must be installed on your system.
+_python 3.6_** and _pip3_** must be installed on your system.
 
 ## How to use:
 
@@ -18,7 +18,7 @@ git clone https://github.com/sagarbabalsure/Live-Cricket.git
 * install virtualenv and create new virtualenv
 ```
 pip3 install virtualenv
-virtualenv -p python3 <name for your env>
+virtualenv -p python3 <name_for_your_env>
 ```
 * When virtualenv in created successfully install all the requirements from 'requirements.txt'
 ```
